@@ -28,7 +28,7 @@ assets:
   templates:
     if_master:
       id: if_master_template
-      url: https://res.cloudinary.com/dgepa3uuk/raw/upload/v1774531818/HTML_Master_t8pzl7.html            
+      url: https://raw.githubusercontent.com/Jact-Peru/agente-html-emails/refs/heads/main/template/html%20template%20master.html            
       type: html
       note: >
         Este archivo es la ÚNICA fuente de verdad para Header y Footer.
@@ -36,8 +36,8 @@ assets:
 
   brand:
     interfondos:
-      id: brand_interfondos
-      url: https://res.cloudinary.com/dgepa3uuk/raw/upload/v1774383478/IF_Manual_de_marca_val3us.md
+      id: brand_interfondos      
+      url: https://raw.githubusercontent.com/Jact-Peru/agente-html-emails/refs/heads/main/guideline/IF_Manual_de_marca.md
       type: markdown
 
 # ─────────────────────────────────────────
