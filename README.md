@@ -1,2 +1,2 @@
 # agente-html-emails
-Assets para agente Claude - HTML Email Templates
+Assets para agente Interfondos - Generacion de HTML Email Templates
